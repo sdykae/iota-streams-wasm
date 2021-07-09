@@ -20,5 +20,9 @@ import { ... } from 'iota-streams-wasm/node';
 import { ... } from 'iota-streams-wasm/web';
 ```
 
+## EXAMPLES
+https://github.com/iotaledger/streams/tree/develop/bindings/wasm/examples
+
+
 ## Note:
 ### This is a published library that handles the build proccess and provides ready to use bindings from : https://github.com/iotaledger/streams 

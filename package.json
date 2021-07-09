@@ -33,6 +33,7 @@
     "node":"node",
     "web":"web"
   },
+  "keywords": ["iota","chrysalis","streams","channels","wasm","webassembly","rust","iota framework","iot streams","nodejs","browser","web","streams bindings"],
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "gulp"
