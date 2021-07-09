@@ -36,5 +36,8 @@
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "gulp"
+  },
+  "bugs": {
+    "url": "https://github.com/iotaledger/streams/issues"
   }
 }
