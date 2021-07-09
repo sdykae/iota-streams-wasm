@@ -1,5 +1,5 @@
 # Javascript/Typescript bindings for Iota/Streams framework
-
+Iota Streams bindings for node and browser.
 ## ⭐ USAGE
 
 ```

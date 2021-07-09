@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/iuslkae/iota-streams-wasm.git"
   },
-  "description": "Javascript/Typescript bindings for Iota/Streams framework",
+  "description": "Iota Streams Javascript/Typescript bindings for Nodejs and Browser",
   "devDependencies": {
     "@types/fs-extra": "^9.0.12",
     "@types/gulp": "^4.0.9",
@@ -33,7 +33,7 @@
     "node":"node",
     "web":"web"
   },
-  "keywords": ["iota","chrysalis","streams","channels","wasm","webassembly","rust","iota framework","iot streams","nodejs","browser","web","streams bindings"],
+  "keywords": ["iota","chrysalis","streams","channels","wasm","webassembly","rust","iota framework","iot streams","nodejs","browser","web","streams bindings", "iota streams"],
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "gulp"
