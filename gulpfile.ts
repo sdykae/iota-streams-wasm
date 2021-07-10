@@ -93,7 +93,7 @@ task(Task.rm_conflict_files, (cb) => {
   cb();
 });
 task(Task.clean_built_dirs, (cb) => {
-  const conflictFiles = ['package-lock.json', 'package.json', 'README.md'];
+  const conflictFiles = ['package-lock.json', 'README.md'];
   const unnecessaryFiles = Object.entries(archives).reduce<Promise<void>[]>(
     (a, [k, v]) => {
       if (exists(join(process.cwd(), v))) {
